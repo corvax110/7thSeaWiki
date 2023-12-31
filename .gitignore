@@ -1,0 +1,7 @@
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+Pages/Princess Zelda - Zelda Wiki_files
+
+#log files
+debug.log
